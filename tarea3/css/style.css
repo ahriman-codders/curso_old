@@ -1,0 +1,12 @@
+body {
+    background-color: #4dd0e1;
+}
+
+.btn-info {
+    background: #17a2b8;
+    border: none;
+    border-radius: 3px;
+    font-size: 18px;
+    padding: 10px 20px;
+    color: #fff;
+}
